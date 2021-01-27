@@ -2,5 +2,9 @@
  在dev分支添加一行
  在master分支天骄一行数据
  在dev分支添加第二行数据
+<<<<<<< Updated upstream
 
  测试 bug
+=======
+ git stash 储藏测试
+>>>>>>> Stashed changes
